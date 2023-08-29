@@ -53,7 +53,4 @@ Our project plan is outlined as follows:
 
 By following this plan, we aim to create a robust and accessible voice-activated home automation system that enhances the way users interact with their household appliances.
 
-For more details, refer to the [project repository](https://github.com/yourusername/voice-automation-project).
-
----
-*Note: This README is a template for generating a project's GitHub repository description.*
+For more details, refer to the [project repository](https://github.com//meabhaykr/Voice-Activated-Home-Automation).

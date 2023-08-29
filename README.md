@@ -3,18 +3,18 @@
 ## Objective/Aim:To study of Voice Activated home automation system.
 	
 	
-## Technical:
+**Technical:**
 This project is one of the important Arduino Proiects.Arduino based home automation using Bluetooth project helps the user to control any electronic device using Device Control app on their Android Smartphone.The android app sends commands to the controller Arduino, through wireless communication, namely, Bluetooth.The Arduino is connected to the main PCB which has five relays as shown in the block diagram.These relays can be connected to different electronic devices.As per the block diagram, Device 1 - Buzzer, Device 2- Fan, Device 3 Lights.
 When the user call ‘ON Light ‘ then Light will be on. Again the user call ‘OFF Light’ then Light will be OFF.
 Similarly, When the user call ‘ON Fan‘ then Fan will be on. Again the user call ‘OFF Fan’ then Fan will be OFF.
 This project of home automation using Bluetooth and Arduino can be used for controlling any AC or DC devices. In the demonstration, we have used DC Fan and DC Bulb. To drive this DC Fan and Light, a 9V battery is connected.
 	 					
 
-## Innovativeness& Usefulness:
+**Innovativeness& Usefulness:**
 The main innovative of this project is to develop a home automation system using an Arduino board with Bluetooth being remotely controlled by any Android oS smart phone. As technology is advancing so houses are also getting smarter Modern houses are gradually shifting from conventional switches to centralized control system, involving remote controlled switches. Presently, conventional wall switches located in different parts of the house makes it difficult for the user to go near them to operate. Even more it becomes more difficult for the elderly or physically handicapped people to do so. Remote controlled home automation system provides a most modern solution with smart phones. In order to achieve this, a Bluetooth module is interfaced to the Arduino board at the receiver end while on the transmitter end, a GUI application on the cell phone sends ON/OFF commands to the receiver where loads are connected. By touching specified location on the GUI, the loads can be turned ON/OFF remotely through this technology. The loads are operated by Arduino board through opto isolators and thyristors using triacs.
 
-## Market Potential & Competitive Advantage
-•	Arduino Uno with Atmega 328P microcontroller 
+**Market Potential & Competitive Advantage**
+**•	Arduino Uno with Atmega 328P microcontroller** 
 •	HC-05 Bluetooth Module 
 •	10K ohm Resistor
 •	1K ohm Resistor X 4 
